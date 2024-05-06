@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python & Powershell
 - 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me: Why Though 
-- 😄 Pronouns: Idk
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Im New To Coding & GitHub
 
 <!---
