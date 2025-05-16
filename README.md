@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me: Why Though 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Im New To Coding & GitHub
+- ⚡ Fun fact: I like GEOMETRY DASH!
 
 <!---
 AnimalLover2143/AnimalLover2143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
