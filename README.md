@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnimalLover2143
-- 👀 I’m interested in html
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on html
+- 👀 I’m interested in html css javascript
+- 🌱 I’m currently learning html css javascript
+- 💞️ I’m looking to collaborate on html css javascript
 - 📫 How to reach me: Why Though 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play gd sometimes.
