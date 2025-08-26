@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on html css javascript
 - 📫 How to reach me: Why Though 
 - 😄 Pronouns: he/him
-DELTARUNE
+- DELTARUNE
 
 <!---
 AnimalLover2143/AnimalLover2143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
